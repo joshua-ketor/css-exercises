@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgba(100%, 0%, 0%, 0.4);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(0%, 0%, 100%);
+    font-size: 36px;
+}
+
+.diff-font-size{
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgba(0%, 100%, 0%, 0.5);
+    font-weight: 600;
+}
